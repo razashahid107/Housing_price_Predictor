@@ -1,0 +1,13 @@
+My different model outputs 
+
+Decision tree =>
+    Mean:  4.201791854552098
+    Standard Deviation:  0.8432172513479917
+
+Linear Regression =>
+    Mean:  5.033513616945581
+    Standard Deviation:  1.0591461681499545
+    
+Random Forest =>
+    Mean:  3.372653718268441
+    Standard Deviation:  0.6873694975500835
